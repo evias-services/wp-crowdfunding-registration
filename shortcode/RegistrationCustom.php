@@ -156,7 +156,7 @@ class RegistrationCustom extends Registration {
                                     <div class="elementor-element elementor-element-1fa3a3f elementor-align-left elementor-widget elementor-widget-button" data-id="1fa3a3f" data-element_type="widget" data-widget_type="button.default">
                                         <div class="elementor-widget-container">
                                             <div class="elementor-button-wrapper">
-                                                <a href="http://mundoraiz.evias.be/index.php/iniciar-sesion/" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="login-button">
+                                                <a href="/iniciar-sesion" class="elementor-button-link elementor-button elementor-size-sm" role="button" id="login-button">
                                                     <span class="elementor-button-content-wrapper">
                                                         <span class="elementor-button-text">Log in</span>
                                                     </span>
